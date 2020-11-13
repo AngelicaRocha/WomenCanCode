@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="56233622-da57-4b1e-95a1-0f6d267333dd" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="AnnotationType" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="C:\Users\Admin\AppData\Local\JetBrains\IntelliJ IDEA Community Edition 2020.2.3\plugins\maven\lib\maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1k4wSRyla0QjsDb7AVnakkBxkxG" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/desafio-api" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="desafiowcc.desafio.rest.api.models" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="desafiowcc.desafio.rest.api" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Admin\Documents\Women Can Code\desafio-api\src" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="DesafioWccApiApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="desafiowcc.desafio.rest.api.DesafioWccApiApplication" />
+      <module name="desafio-api" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="desafiowcc.desafio.rest.api.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="Women Can Code" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="Women Can Code" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.DesafioWccApiApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="56233622-da57-4b1e-95a1-0f6d267333dd" name="Default Changelist" comment="" />
+      <created>1604973170472</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1604973170472</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="369" y="181" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1605096005888">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state x="369" y="181" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1280.760/-1024.0.1024.768@0.0.1280.760" timestamp="1605096005888" />
+    <state x="445" y="95" key="#com.intellij.ide.util.MemberChooser" timestamp="1605094995294">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state x="445" y="95" key="#com.intellij.ide.util.MemberChooser/0.0.1280.760/-1024.0.1024.768@0.0.1280.760" timestamp="1605094995294" />
+    <state x="277" y="303" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1605231466054">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state x="277" y="303" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1280.760/-1024.0.1024.768@0.0.1280.760" timestamp="1605231466054" />
+    <state x="436" y="260" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages" timestamp="1605231474227">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state x="436" y="260" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages/0.0.1280.760/-1024.0.1024.768@0.0.1280.760" timestamp="1605231474227" />
+    <state x="370" y="126" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1605053231764">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state x="370" y="126" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1280.760/-1024.0.1024.768@0.0.1280.760" timestamp="1605053231764" />
+    <state width="452" height="466" key="DebuggerActiveHint" timestamp="1605229460305">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state width="452" height="466" key="DebuggerActiveHint/0.0.1280.760/-1024.0.1024.768@0.0.1280.760" timestamp="1605229460305" />
+    <state x="420" y="88" key="FileChooserDialogImpl" timestamp="1605023663665">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state x="420" y="88" key="FileChooserDialogImpl/0.0.1280.760/-1024.0.1024.768@0.0.1280.760" timestamp="1605023663665" />
+    <state x="420" y="88" key="FileChooserDialogImpl/0.0.1280.760/-1024.32.1024.768@0.0.1280.760" timestamp="1604973512631" />
+    <state width="1280" height="239" key="GridCell.Tab.0.bottom" timestamp="1605233908347">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state width="1280" height="239" key="GridCell.Tab.0.bottom/0.0.1280.760/-1024.0.1024.768@0.0.1280.760" timestamp="1605233908347" />
+    <state width="1280" height="239" key="GridCell.Tab.0.center" timestamp="1605233908347">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state width="1280" height="239" key="GridCell.Tab.0.center/0.0.1280.760/-1024.0.1024.768@0.0.1280.760" timestamp="1605233908347" />
+    <state width="1280" height="239" key="GridCell.Tab.0.left" timestamp="1605233908347">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state width="1280" height="239" key="GridCell.Tab.0.left/0.0.1280.760/-1024.0.1024.768@0.0.1280.760" timestamp="1605233908347" />
+    <state width="1280" height="239" key="GridCell.Tab.0.right" timestamp="1605233908347">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state width="1280" height="239" key="GridCell.Tab.0.right/0.0.1280.760/-1024.0.1024.768@0.0.1280.760" timestamp="1605233908347" />
+    <state width="1280" height="239" key="GridCell.Tab.1.bottom" timestamp="1605233908347">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state width="1280" height="239" key="GridCell.Tab.1.bottom/0.0.1280.760/-1024.0.1024.768@0.0.1280.760" timestamp="1605233908347" />
+    <state width="1280" height="239" key="GridCell.Tab.1.center" timestamp="1605233908347">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state width="1280" height="239" key="GridCell.Tab.1.center/0.0.1280.760/-1024.0.1024.768@0.0.1280.760" timestamp="1605233908347" />
+    <state width="1280" height="239" key="GridCell.Tab.1.left" timestamp="1605233908347">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state width="1280" height="239" key="GridCell.Tab.1.left/0.0.1280.760/-1024.0.1024.768@0.0.1280.760" timestamp="1605233908347" />
+    <state width="1280" height="239" key="GridCell.Tab.1.right" timestamp="1605233908347">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state width="1280" height="239" key="GridCell.Tab.1.right/0.0.1280.760/-1024.0.1024.768@0.0.1280.760" timestamp="1605233908347" />
+    <state x="170" y="34" key="Maven.ArtifactSearchDialog" timestamp="1605054658849">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state x="170" y="34" key="Maven.ArtifactSearchDialog/0.0.1280.760/-1024.0.1024.768@0.0.1280.760" timestamp="1605054658849" />
+    <state x="305" y="83" key="NewModule_or_Project.wizard" timestamp="1605023669758">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state x="305" y="83" key="NewModule_or_Project.wizard/0.0.1280.760/-1024.0.1024.768@0.0.1280.760" timestamp="1605023669758" />
+    <state x="305" y="83" key="NewModule_or_Project.wizard/0.0.1280.760/-1024.32.1024.768@0.0.1280.760" timestamp="1604973537427" />
+  </component>
+</project>

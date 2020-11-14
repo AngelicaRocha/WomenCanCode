@@ -35,10 +35,10 @@ public class SwaggerConfig {
                 "1.0",
                 "Termos de uso",
                 new Contact("Angélica Rocha",
-                        "Link do github aqui depois",
+                        "https://github.com/AngelicaRocha/WomenCanCode",
                         "angelicarocha67@yahoo.com.br"),
                         "Versão 1.0",
-                        "Mais um parametro",
+                        "URL da licença",
                         new ArrayList<VendorExtension>()
         );
 
